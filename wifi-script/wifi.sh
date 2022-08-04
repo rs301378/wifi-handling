@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#@author: Rohit Sharma
+#Date:20/05/2022
 modprobe moal mod_para=nxp/wifi_mod_para.conf
 sleep 3
 
